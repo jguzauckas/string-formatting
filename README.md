@@ -1,0 +1,1 @@
+This repository will introduce you to some powerful ways we can dynamically format strings in Python.
