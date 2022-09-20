@@ -68,7 +68,7 @@ print(line9.format(24, True))
 #Print the string from lines 61-62 and format in the month and day the user entered
 
 
-#Create a string variable that makes the statement "My grade in this class is 96.0%."
+#Create a string variable that makes the statement "My grade in this class is 96%."
 #When making this variable, make the percentage (96) a format blank to fill in later
 
 
