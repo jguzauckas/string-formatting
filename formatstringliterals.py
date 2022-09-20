@@ -21,9 +21,22 @@ print(f"Your average grade was {(grade1 + grade2) / 2}, good job!")
 #Our formatting types from formattingtypes.py also work in f-strings, giving us more
 #customization options, even on a calculation!
 print(f"Your average grade was {(grade1 + grade2) / 2:.2f}")
-#This prints the same line but forces the output to have 2 fixed decimal points
+#This prints the same line but forces the output to have 2 fixed decimal points (:.2f)
 
 people = 7753000000 #Current world population estimate
 print(f"There are currently estimated to be {people:,} on Earth.")
-#This utilizes our commas as thousands separators!
+#This utilizes our commas as thousands separators! (:,)
 
+#TODO
+#Create a variable that stores an amount of money you'd wish to have.
+
+
+#Use f-strings to print the statement "I wish I had $#.##"
+#Make sure it formats with thousands separators (,) and two decimal places
+
+
+#Create a variable where the user enters a float for their grade in the class (0.5 for 50%)
+
+
+#Use f-strings to print the staatement "I have a ##.#% in this class."
+#Make sure it formats with one decimal place and as a percentage

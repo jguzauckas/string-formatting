@@ -56,3 +56,23 @@ print(line8.format(firstname, lastname))
 line9 = "I am {} years old. This statement is {}"
 #Format will automatically convert types to string to plug them in, like int, float, and bool
 print(line9.format(24, True))
+
+#TODO
+#Create a string variable that makes the statement "My birthday is in August on day 5."
+#When making this variable, make the month (August) and day (5) format blanks to fill in later
+
+
+#Have the user enter a birth month (string) and a birth day (integer) and save them to variables
+
+
+#Print the string from lines 61-62 and format in the month and day the user entered
+
+
+#Create a string variable that makes the statement "My grade in this class is 96.0%."
+#When making this variable, make the percentage (96) a format blank to fill in later
+
+
+#Have the user enter an integer for their grade and save it to a variable
+
+
+#Print the string from lines 71-72 and format in the grade the user entered

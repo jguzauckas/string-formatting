@@ -55,3 +55,25 @@ average = 0.795
 line10 = """While the change from one class to another was {:+} points,
 the average grade on the exams were only {:.0%}."""
 print(line10.format(change, average))
+
+#TODO
+#Create a string variable that makes the statement "My grade in this class is 96.0%."
+#When making this variable, make the percentage (96.0%) a format blank to fill in later
+#Be sure to be specific about the one decimal place!
+
+
+#Have the user enter a float for their grade (0.5 for 50%) and save it to a variable
+
+
+#Print the string from lines 60-62 and format in the grade the user entered
+
+
+#Create a string variable that makes the statement "I want to have $123,456,789.10."
+#When making this variable, make the amount of money a format blank to fill in later
+#Be sure to format for the thousands separator and 2 decimal places!
+
+
+#Have the user enter a float for their wished amount of money and save it to a variable
+
+
+#Print the string from lines 71-73 and format in the amount of money the user entered
